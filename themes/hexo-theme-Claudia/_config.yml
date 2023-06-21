@@ -57,8 +57,7 @@ friend_links:
 #    link: https://www.google.com/
 
 # Google Analytics
-ga_track_id:
-ga_domain:
+ga_track_id: G-DGP93TCT38
 
 # picture of about page
 about_pic: about.png
