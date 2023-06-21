@@ -1,0 +1,30 @@
+archive:
+  one: "Архив"
+  other: "Архив"
+
+category:
+  one: "Категория"
+  other: "Категории"
+tag:
+  one: "Тег"
+  other: "Теги"
+post:
+  one: "Пост"
+  other: "Посты"
+page:
+  one: "Страницы"
+  other: "Страницы"
+prev: "Назад"
+next: "Вперёд"
+
+all: "Все"
+home: "Главная"
+title: "Заголовок"
+about: "Обо мне"
+recent: "Последние"
+links: "Ссылки"
+read_more: "Читать дальше"
+user_name: "User name"
+click_back_to_the_top: "Вверх"
+
+search_input_placeholder: "Поиск..."
