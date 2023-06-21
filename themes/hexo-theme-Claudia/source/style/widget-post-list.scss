@@ -33,7 +33,7 @@ $coverBlurEffect: 20px;
 
           object-fit: cover;
           transform: scale(1.2);
-          filter: blur($coverBlurEffect) ;
+          filter: blur($coverBlurEffect);
         }
       }
 
@@ -82,7 +82,7 @@ $coverBlurEffect: 20px;
   .archives-widget,
   .recent-widget,
   .friend-widget,
-  .tag-widget, {
+  .tag-widget {
     h3 {
       font-weight: bold;
       margin-bottom: 10px;
@@ -114,7 +114,7 @@ $coverBlurEffect: 20px;
       object-fit: cover;
     }
 
-    .avatar{
+    .avatar {
       position: relative;
 
       width: $avatarSize;
@@ -132,7 +132,7 @@ $coverBlurEffect: 20px;
     .avatar-placeholder:after {
       content: "\e62a";
       font-size: 80px;
-      font-family: 'IcoFont';
+      font-family: "IcoFont";
 
       position: absolute;
       top: 50%;
@@ -150,13 +150,13 @@ $coverBlurEffect: 20px;
 
     // user describe quote style
     blockquote:before {
-      content: '“';
+      content: "“";
       margin-right: 5px;
       vertical-align: middle;
     }
 
     blockquote:after {
-      content: '”';
+      content: "”";
       margin-left: 5px;
       vertical-align: bottom;
     }
@@ -196,10 +196,11 @@ $coverBlurEffect: 20px;
         }
       }
     }
-    img, .post-img-placeholder {
+    img,
+    .post-img-placeholder {
       width: 50px;
       height: 50px;
-      margin-right: 5px;
+      margin-right: 8px;
       object-fit: cover;
       border-radius: $borderRadius;
     }
@@ -220,14 +221,14 @@ $coverBlurEffect: 20px;
   }
 
   .archives-widget {
-      > section {
-        overflow: auto;
-        max-height: 45vh;
-      }
+    > section {
+      overflow: auto;
+      max-height: 45vh;
+    }
 
-      &.is-in-archive-page > section {
-        max-height: 80vh;
-      }
+    &.is-in-archive-page > section {
+      max-height: 80vh;
+    }
   }
 
   .tag-widget {
@@ -263,7 +264,7 @@ $coverBlurEffect: 20px;
       background: var(--third-bg-color);
 
       &.current {
-        color: #fff!important;
+        color: #fff !important;
         background: $activeColor;
       }
     }
