@@ -103,4 +103,7 @@ theme: hexo-theme-Claudia
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
+  type:
+
+sitemap:
+  path: sitemap.xml
