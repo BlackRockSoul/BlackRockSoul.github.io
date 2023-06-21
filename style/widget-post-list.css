@@ -171,10 +171,11 @@
 .post-container .recent-widget ul li:last-child section {
   border-bottom: none;
 }
-.post-container .recent-widget img, .post-container .recent-widget .post-img-placeholder {
+.post-container .recent-widget img,
+.post-container .recent-widget .post-img-placeholder {
   width: 50px;
   height: 50px;
-  margin-right: 5px;
+  margin-right: 8px;
   object-fit: cover;
   border-radius: 6px;
 }

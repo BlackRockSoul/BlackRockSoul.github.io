@@ -6,7 +6,7 @@
   <link href="https://blackrocksoul.github.io/atom.xml" rel="self"/>
   
   <link href="https://blackrocksoul.github.io/"/>
-  <updated>2023-06-21T05:54:25.756Z</updated>
+  <updated>2023-06-21T09:26:55.357Z</updated>
   <id>https://blackrocksoul.github.io/</id>
   
   <author>
@@ -17,16 +17,17 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://blackrocksoul.github.io/2023/06/21/hello-world/"/>
-    <id>https://blackrocksoul.github.io/2023/06/21/hello-world/</id>
+    <title>Welcome to my Tech Bytes</title>
+    <link href="https://blackrocksoul.github.io/2023/06/21/welcome/"/>
+    <id>https://blackrocksoul.github.io/2023/06/21/welcome/</id>
     <published>2023-06-21T05:44:40.000Z</published>
-    <updated>2023-06-21T05:54:25.756Z</updated>
+    <updated>2023-06-21T09:26:55.357Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Hello and welcome to my blog! I’m thrilled to have you here as we embark on a coding journey together. In this blog, I’ll be sharing my experiences, insights, and solutions to the coding problems I’ve encountered throughout my web development career.</p><p><img src="/../images/BlackRockSoul.png" alt="logo"></p><span id="more"></span><p>Whether you’re a beginner taking your first steps into the world of coding or an experienced developer seeking fresh perspectives, this blog aims to offer valuable content that can inspire, inform, and ignite your passion for coding.</p><p>As a web developer with over 6 years of experience, I’ve had the privilege of working with exciting technologies like TypeScript, React.js, GraphQL, Next.js, and Node.js. Through my articles, I’ll be delving into these technologies, providing tips, tricks, and real-world examples that can help you navigate the complexities of modern web development.</p><p>My goal is to make this blog a place of learning, collaboration, and growth. I encourage you to engage with the content, ask questions, share your own experiences, and contribute to the discussions. Together, we can create a vibrant community of developers who support and learn from each other.</p><p>I’m incredibly excited to share my coding journey with you and I hope you find this blog a valuable resource in your own coding adventures. Stay tuned for upcoming articles where we’ll dive deep into fascinating coding topics, explore innovative solutions, and unravel the mysteries of web development.</p><p>Once again, a warm welcome to my <strong>Tech Bytes</strong>! Let’s embark on this coding odyssey together and unlock the possibilities that lie ahead!</p><p>Happy coding!</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;Hello and welcome to my blog! I’m thrilled to have you here as we embark on a coding journey together. In this blog, I’ll be sharing my experiences, insights, and solutions to the coding problems I’ve encountered throughout my web development career.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/../images/BlackRockSoul.png&quot; alt=&quot;logo&quot;&gt;&lt;/p&gt;</summary>
     
     
     
