@@ -97,3 +97,32 @@
     font-weight: bold;
   }
 }
+
+.hljs-ln {
+  padding: 0 0.5em 0 0 !important;
+}
+
+.hljs-ln .hljs-ln-numbers,
+.hljs-ln .hljs-ln-line {
+  border-bottom: none;
+  padding: 0;
+  padding-right: 0.5em;
+  vertical-align: middle;
+}
+
+.hljs-ln .hljs-ln-line.hljs-ln-numbers {
+  opacity: 0.4;
+  text-align: right;
+  border-right: 1px solid #aaaaaa64 !important;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.hljs-ln .hljs-ln-code {
+  padding-left: 2ch;
+}

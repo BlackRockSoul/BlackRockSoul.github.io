@@ -45,10 +45,10 @@ relative_link: false
 future: true
 
 highlight:
-  enable: false
+  enable: true
   line_number: false
   auto_detect: false
-  tab_replace: ""
+  tab_replace:
   wrap: false
   hljs: true
 prismjs:
