@@ -1,4 +1,4 @@
-@mixin dark{
+@mixin dark {
   --primary-bg-color: #181818;
   --second-bg-color: #212121;
   --third-bg-color: #ffffff14;
@@ -17,4 +17,7 @@
   --skeleton-flash-color: 0.05;
 
   --avatar-border-color: rgba(255, 255, 255, 0.05);
+
+  --tag-color: #7a7a7a;
+  --tag-color-hover: #b9b9b9;
 }

@@ -3,7 +3,6 @@
 @import "icofont/icofont.min.css";
 
 :root {
-
   body {
     margin: 0;
     height: 100vh;
@@ -12,11 +11,12 @@
     a {
       color: inherit;
 
-      &:hover, &:hover,
+      &:hover,
+      &:hover,
       &:hover [class^="icofont-"],
       &:hover [class*=" icofont-"] {
         text-decoration: none;
-        color: $activeColor!important;
+        color: $activeColor !important;
       }
     }
 
@@ -24,12 +24,18 @@
       margin-right: 5px;
 
       font-weight: bold;
-      color: darkorange;
+      color: var(--tag-color);
       font-style: normal;
 
       border-radius: 10px;
       background: transparent;
-      border: 2px solid darkorange;
+      border: 1px solid var(--tag-color);
+      transition: 0.2s color ease, 0.2s border-color ease;
+
+      &:hover {
+        color: var(--tag-color-hover);
+        border-color: var(--tag-color-hover);
+      }
     }
 
     .button.is-default {
@@ -52,7 +58,7 @@
       border-top: 1px solid rgba(0, 0, 0, 0.05);
 
       .sns-container [class^="icofont-"],
-      .sns-container [class*=" icofont-"]{
+      .sns-container [class*=" icofont-"] {
         margin: 0 5px;
         font-size: 30px;
       }

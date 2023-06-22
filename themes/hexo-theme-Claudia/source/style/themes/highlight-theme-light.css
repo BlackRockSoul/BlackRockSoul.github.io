@@ -2,10 +2,19 @@
 /* Based on the Tomorrow Night Eighties theme: https://github.com/isagalaev/highlight.js/blob/master/src/styles/tomorrow-night-eighties.css */
 /* @author: ericwbailey */
 
+.hljs {
+  color: #383a42;
+  background: #fafafa;
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em !important;
+}
+
 /* Comment */
 .hljs-comment,
 .hljs-quote {
   color: #696969;
+  font-style: italic;
 }
 
 /* Red */
@@ -17,10 +26,11 @@
 .hljs-selector-class,
 .hljs-regexp,
 .hljs-deletion {
-  color: #d91e18;
+  color: #cc5450;
 }
 
 /* Orange */
+code,
 .hljs-number,
 .hljs-built_in,
 .hljs-builtin-name,
@@ -42,7 +52,7 @@
 .hljs-symbol,
 .hljs-bullet,
 .hljs-addition {
-  color: #008000;
+  color: #458145;
 }
 
 /* Blue */
@@ -54,15 +64,7 @@
 /* Purple */
 .hljs-keyword,
 .hljs-selector-tag {
-  color: #7928a1;
-}
-
-.hljs {
-  display: block;
-  overflow-x: auto;
-  background: #fefefe;
-  color: #545454;
-  padding: 0.5em;
+  color: #a466c4;
 }
 
 .hljs-emphasis {
