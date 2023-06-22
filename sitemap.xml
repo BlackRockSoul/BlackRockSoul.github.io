@@ -4,12 +4,17 @@
 
     <sitemap>
         <loc>https://blackrocksoul.github.io/post-sitemap.xml</loc>
-        <lastmod>2023-06-21T10:01:26.094Z</lastmod>
+        <lastmod>2023-06-22T10:45:24.282Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://blackrocksoul.github.io/page-sitemap.xml</loc>
-        <lastmod>2023-06-21T10:01:26.110Z</lastmod>
+        <lastmod>2023-06-22T10:45:24.298Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://blackrocksoul.github.io/tag-sitemap.xml</loc>
+        <lastmod>2023-06-22T10:45:24.282Z</lastmod>
     </sitemap>
 
 </sitemapindex>
